@@ -1,0 +1,121 @@
+2023-10-20 11:49:15,762 - INFO - Iniciando programa...
+2023-10-20 11:49:15,991 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 11:49:16,006 - INFO - Tenemos: 19 CARTAS PORTE pendientes en la base de datos:
+2023-10-20 11:50:06,864 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con nï¿½mero None
+2023-10-20 11:50:06,879 - INFO - (48949.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/198210.pdf', None, 'NESTLE')
+2023-10-20 11:50:06,879 - INFO - La informacion a tratar es: (2319.0, 58.0, 198210.0, 'FLETE QUERETARO PLATAFORMA SECO HASTA 8,640 KM ')
+2023-10-20 11:50:16,647 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con nï¿½mero None
+2023-10-20 11:50:16,647 - INFO - (48951.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/198253.pdf', None, 'HOLCIM')
+2023-10-20 11:50:16,647 - INFO - La informacion a tratar es: (1497.0, 54.0, 198253.0, 'FLETE GOMEZ PALACIO AGUASCALIENTES TRAILER 53 PIES REFRIGERADO SENCILLO ')
+2023-10-20 11:50:25,730 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con nï¿½mero None
+2023-10-20 11:50:25,730 - INFO - (48952.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/231958.pdf', None, 'COMLADE CAJA')
+2023-10-20 11:50:25,730 - INFO - La informacion a tratar es: (3949.0, 257.0, 231958.0, 'FLETE FRESNILLO TORREON VOLTEO 38 TON REDONDO TON')
+2023-10-20 11:50:34,441 - INFO - Mensaje enviado correctamente a CARLOS ALONSO QUINTANAR PEREZ con nï¿½mero None
+2023-10-20 11:50:34,441 - INFO - (48953.0, 'CARLOS ALONSO QUINTANAR PEREZ', 'ServerArchivos/Cartas_Porte/Prueba/232461.pdf', None, 'INGREDION SAN JUAN')
+2023-10-20 11:50:34,441 - INFO - La informacion a tratar es: (3949.0, 257.0, 232461.0, 'FLETE FRESNILLO TORREON VOLTEO 38 TON REDONDO TON')
+2023-10-20 11:50:42,718 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con nï¿½mero None
+2023-10-20 11:50:42,718 - INFO - (48954.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/232466.pdf', None, 'PEï¿½OLES')
+2023-10-20 11:50:42,718 - INFO - La informacion a tratar es: (3949.0, 257.0, 232466.0, 'FLETE FRESNILLO TORREON VOLTEO 38 TON REDONDO TON')
+2023-10-20 11:50:51,110 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con nï¿½mero None
+2023-10-20 11:50:51,110 - INFO - (48955.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/238852.pdf', None, 'PEï¿½OLES')
+2023-10-20 11:50:51,110 - INFO - La informacion a tratar es: (3779.0, 26.0, 238852.0, 'FLETE MONTERREY SALTILLO 1.5 TON ')
+2023-10-20 11:50:59,632 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con nï¿½mero None
+2023-10-20 11:50:59,632 - INFO - (48956.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/239033.pdf', None, 'HOLCIM')
+2023-10-20 11:50:59,632 - INFO - La informacion a tratar es: (1689.0, 66.0, 239033.0, 'FLETE GOMEZ PALACIO LEON PIPA 50,000 LTS REDONDO ')
+2023-10-20 11:51:08,023 - INFO - Mensaje enviado correctamente a CARLOS ALONSO QUINTANAR PEREZ con nï¿½mero None
+2023-10-20 11:51:08,023 - INFO - (48957.0, 'CARLOS ALONSO QUINTANAR PEREZ', 'ServerArchivos/Cartas_Porte/Prueba/242446.pdf', None, 'HOLCIM')
+2023-10-20 11:51:08,023 - INFO - La informacion a tratar es: (3464.0, 26.0, 242446.0, 'FLETE MONTERREY CARMEN NL CAMION 1.5 TON REDONDO ')
+2023-10-20 11:51:16,278 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con nï¿½mero None
+2023-10-20 11:51:16,288 - INFO - (48958.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/244639.pdf', None, 'HOLCIM')
+2023-10-20 11:51:16,288 - INFO - La informacion a tratar es: (3464.0, 26.0, 244639.0, 'FLETE MONTERREY CARMEN NL CAMION 1.5 TON REDONDO ')
+2023-10-20 11:51:24,838 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con nï¿½mero None
+2023-10-20 11:51:24,838 - INFO - (48959.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/245382.pdf', None, 'SETYLSA PIPA')
+2023-10-20 11:51:24,838 - INFO - La informacion a tratar es: (4299.0, 115.0, 245382.0, 'FLETE MONTEMORELOS CCN VIï¿½EDOS TORTON REDONDO ')
+2023-10-20 11:51:33,448 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con nï¿½mero None
+2023-10-20 11:51:33,448 - INFO - (48960.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/246663.pdf', None, 'SETYLSA PIPA')
+2023-10-20 11:51:33,448 - INFO - La informacion a tratar es: (4299.0, 115.0, 246663.0, 'FLETE MONTEMORELOS CCN VIï¿½EDOS TORTON REDONDO ')
+2023-10-20 11:51:41,715 - INFO - Mensaje enviado correctamente a CARLOS ALONSO QUINTANAR PEREZ con nï¿½mero None
+2023-10-20 11:51:41,715 - INFO - (48961.0, 'CARLOS ALONSO QUINTANAR PEREZ', 'ServerArchivos/Cartas_Porte/Prueba/253465.pdf', None, 'SETYLSA PIPA')
+2023-10-20 11:51:41,715 - INFO - La informacion a tratar es: (4385.0, 270.0, 253465.0, 'FLETE CDMX CUAUTITLAN APODACA 53 PIES CONGELADO SENCILLO NO INCLUYE CASETAS ')
+2023-10-20 11:51:50,135 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con nï¿½mero None
+2023-10-20 11:51:50,135 - INFO - (48962.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/254043.pdf', None, 'BARRY CALLEBAUT PIPAS')
+2023-10-20 11:51:50,135 - INFO - La informacion a tratar es: (2494.0, 10.0, 254043.0, 'FLETE QUERETARO MAZATLAN PIPA 36,000 LTS SECO CON BOMBA REDONDO NO INCLUYE CASETAS ')
+2023-10-20 11:51:58,521 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con nï¿½mero None
+2023-10-20 11:51:58,521 - INFO - (48963.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/265914.pdf', None, 'MINERA FRESNILLO')
+2023-10-20 11:51:58,537 - INFO - La informacion a tratar es: (1276.0, 270.0, 265914.0, 'FLETE GOMEZ PALACIO LOCAL 53 PIES REFRIGERADO REDONDO FRIALSA ')
+2023-10-20 11:52:07,448 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con nï¿½mero None
+2023-10-20 11:52:07,453 - INFO - (48964.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/266239.pdf', None, 'INGREDION GUADALAJARA')
+2023-10-20 11:52:07,453 - INFO - La informacion a tratar es: (3150.0, 10.0, 266239.0, 'FLETE QUERETARO CDMX NORTE ECATEPEC PIPA 36,000 LTS CON BOMBA REDONDO NO INCLUYE CASETAS ')
+2023-10-20 11:52:19,408 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con nï¿½mero None
+2023-10-20 11:52:19,419 - INFO - (48966.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/266296.pdf', None, 'INGREDION GUADALAJARA')
+2023-10-20 11:52:19,419 - INFO - La informacion a tratar es: (3464.0, 26.0, 266296.0, 'FLETE MONTERREY CARMEN NL CAMION 1.5 TON REDONDO ')
+2023-10-20 11:52:28,999 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con nï¿½mero None
+2023-10-20 11:52:28,999 - INFO - (48968.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/266755.pdf', None, 'JK')
+2023-10-20 11:52:28,999 - INFO - La informacion a tratar es: (4531.0, 289.0, 266755.0, 'COMPLEMENTO ESTANCIA CD HIDALGO PIPA 22,500 LTS ')
+2023-10-20 11:52:37,867 - INFO - Mensaje enviado correctamente a CARLOS ALONSO QUINTANAR PEREZ con nï¿½mero None
+2023-10-20 11:52:37,867 - INFO - (48969.0, 'CARLOS ALONSO QUINTANAR PEREZ', 'ServerArchivos/Cartas_Porte/Prueba/267255.pdf', None, 'JUGOS DEL VALLE')
+2023-10-20 11:52:37,867 - INFO - La informacion a tratar es: (3779.0, 26.0, 267255.0, 'FLETE MONTERREY SALTILLO 1.5 TON ')
+2023-10-20 11:52:46,185 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con nï¿½mero None
+2023-10-20 11:52:46,185 - INFO - (48971.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/267754.pdf', None, 'BIOTEKSA')
+2023-10-20 11:52:46,185 - INFO - La informacion a tratar es: (3464.0, 26.0, 267754.0, 'FLETE MONTERREY CARMEN NL CAMION 1.5 TON REDONDO ')
+2023-10-20 11:52:46,185 - INFO - Programa finalizado. 
+
+2023-10-20 12:20:44,564 - INFO - Iniciando programa...
+2023-10-20 12:20:44,829 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 12:20:44,858 - INFO - Tenemos: 18 CARTAS PORTE pendientes en la base de datos:
+2023-10-20 12:21:36,374 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con número None
+2023-10-20 12:21:36,382 - INFO - (48949.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/198210.pdf', None, 'NESTLE')
+2023-10-20 12:21:36,382 - INFO - La informacion a tratar es: (2319.0, 58.0, 198210.0, 'FLETE QUERETARO PLATAFORMA SECO HASTA 8,640 KM ')
+2023-10-20 12:21:46,419 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con número None
+2023-10-20 12:21:46,424 - INFO - (48951.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/198253.pdf', None, 'HOLCIM')
+2023-10-20 12:21:46,424 - INFO - La informacion a tratar es: (1497.0, 54.0, 198253.0, 'FLETE GOMEZ PALACIO AGUASCALIENTES TRAILER 53 PIES REFRIGERADO SENCILLO ')
+2023-10-20 12:21:55,399 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con número None
+2023-10-20 12:21:55,402 - INFO - (48952.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/231958.pdf', None, 'COMLADE CAJA')
+2023-10-20 12:21:55,402 - INFO - La informacion a tratar es: (3949.0, 257.0, 231958.0, 'FLETE FRESNILLO TORREON VOLTEO 38 TON REDONDO TON')
+2023-10-20 12:22:04,307 - INFO - Mensaje enviado correctamente a CARLOS ALONSO QUINTANAR PEREZ con número None
+2023-10-20 12:22:04,310 - INFO - (48953.0, 'CARLOS ALONSO QUINTANAR PEREZ', 'ServerArchivos/Cartas_Porte/Prueba/232461.pdf', None, 'INGREDION SAN JUAN')
+2023-10-20 12:22:04,310 - INFO - La informacion a tratar es: (3949.0, 257.0, 232461.0, 'FLETE FRESNILLO TORREON VOLTEO 38 TON REDONDO TON')
+2023-10-20 12:22:13,122 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con número None
+2023-10-20 12:22:13,124 - INFO - (48954.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/232466.pdf', None, 'PEÑOLES')
+2023-10-20 12:22:13,124 - INFO - La informacion a tratar es: (3949.0, 257.0, 232466.0, 'FLETE FRESNILLO TORREON VOLTEO 38 TON REDONDO TON')
+2023-10-20 12:22:22,126 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con número None
+2023-10-20 12:22:22,129 - INFO - (48955.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/238852.pdf', None, 'PEÑOLES')
+2023-10-20 12:22:22,129 - INFO - La informacion a tratar es: (3779.0, 26.0, 238852.0, 'FLETE MONTERREY SALTILLO 1.5 TON ')
+2023-10-20 12:22:31,237 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con número None
+2023-10-20 12:22:31,247 - INFO - (48956.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/239033.pdf', None, 'HOLCIM')
+2023-10-20 12:22:31,248 - INFO - La informacion a tratar es: (1689.0, 66.0, 239033.0, 'FLETE GOMEZ PALACIO LEON PIPA 50,000 LTS REDONDO ')
+2023-10-20 12:22:40,458 - INFO - Mensaje enviado correctamente a CARLOS ALONSO QUINTANAR PEREZ con número None
+2023-10-20 12:22:40,461 - INFO - (48957.0, 'CARLOS ALONSO QUINTANAR PEREZ', 'ServerArchivos/Cartas_Porte/Prueba/242446.pdf', None, 'HOLCIM')
+2023-10-20 12:22:40,464 - INFO - La informacion a tratar es: (3464.0, 26.0, 242446.0, 'FLETE MONTERREY CARMEN NL CAMION 1.5 TON REDONDO ')
+2023-10-20 12:22:49,779 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con número None
+2023-10-20 12:22:49,780 - INFO - (48958.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/244639.pdf', None, 'HOLCIM')
+2023-10-20 12:22:49,780 - INFO - La informacion a tratar es: (3464.0, 26.0, 244639.0, 'FLETE MONTERREY CARMEN NL CAMION 1.5 TON REDONDO ')
+2023-10-20 12:22:58,479 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con número None
+2023-10-20 12:22:58,482 - INFO - (48959.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/245382.pdf', None, 'SETYLSA PIPA')
+2023-10-20 12:22:58,482 - INFO - La informacion a tratar es: (4299.0, 115.0, 245382.0, 'FLETE MONTEMORELOS CCN VIÑEDOS TORTON REDONDO ')
+2023-10-20 12:23:07,694 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con número None
+2023-10-20 12:23:07,694 - INFO - (48960.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/246663.pdf', None, 'SETYLSA PIPA')
+2023-10-20 12:23:07,694 - INFO - La informacion a tratar es: (4299.0, 115.0, 246663.0, 'FLETE MONTEMORELOS CCN VIÑEDOS TORTON REDONDO ')
+2023-10-20 12:23:16,708 - INFO - Mensaje enviado correctamente a CARLOS ALONSO QUINTANAR PEREZ con número None
+2023-10-20 12:23:16,711 - INFO - (48961.0, 'CARLOS ALONSO QUINTANAR PEREZ', 'ServerArchivos/Cartas_Porte/Prueba/253465.pdf', None, 'SETYLSA PIPA')
+2023-10-20 12:23:16,711 - INFO - La informacion a tratar es: (4385.0, 270.0, 253465.0, 'FLETE CDMX CUAUTITLAN APODACA 53 PIES CONGELADO SENCILLO NO INCLUYE CASETAS ')
+2023-10-20 12:23:25,719 - INFO - Mensaje enviado correctamente a BRYAN EDUARDO GARCIA IBARRA con número None
+2023-10-20 12:23:25,722 - INFO - (48962.0, 'BRYAN EDUARDO GARCIA IBARRA', 'ServerArchivos/Cartas_Porte/Prueba/254043.pdf', None, 'BARRY CALLEBAUT PIPAS')
+2023-10-20 12:23:25,722 - INFO - La informacion a tratar es: (2494.0, 10.0, 254043.0, 'FLETE QUERETARO MAZATLAN PIPA 36,000 LTS SECO CON BOMBA REDONDO NO INCLUYE CASETAS ')
+2023-10-20 12:23:35,250 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con número None
+2023-10-20 12:23:35,254 - INFO - (48963.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/265914.pdf', None, 'MINERA FRESNILLO')
+2023-10-20 12:23:35,254 - INFO - La informacion a tratar es: (1276.0, 270.0, 265914.0, 'FLETE GOMEZ PALACIO LOCAL 53 PIES REFRIGERADO REDONDO FRIALSA ')
+2023-10-20 12:23:44,764 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con número None
+2023-10-20 12:23:44,769 - INFO - (48964.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/266239.pdf', None, 'INGREDION GUADALAJARA')
+2023-10-20 12:23:44,769 - INFO - La informacion a tratar es: (3150.0, 10.0, 266239.0, 'FLETE QUERETARO CDMX NORTE ECATEPEC PIPA 36,000 LTS CON BOMBA REDONDO NO INCLUYE CASETAS ')
+2023-10-20 12:23:53,879 - INFO - Mensaje enviado correctamente a DIEGO ATILANO DELGADO con número None
+2023-10-20 12:23:53,882 - INFO - (48968.0, 'DIEGO ATILANO DELGADO', 'ServerArchivos/Cartas_Porte/Prueba/266755.pdf', None, 'JK')
+2023-10-20 12:23:53,882 - INFO - La informacion a tratar es: (4531.0, 289.0, 266755.0, 'COMPLEMENTO ESTANCIA CD HIDALGO PIPA 22,500 LTS ')
+2023-10-20 12:24:03,030 - INFO - Mensaje enviado correctamente a CARLOS ALONSO QUINTANAR PEREZ con número None
+2023-10-20 12:24:03,032 - INFO - (48969.0, 'CARLOS ALONSO QUINTANAR PEREZ', 'ServerArchivos/Cartas_Porte/Prueba/267255.pdf', None, 'JUGOS DEL VALLE')
+2023-10-20 12:24:03,032 - INFO - La informacion a tratar es: (3779.0, 26.0, 267255.0, 'FLETE MONTERREY SALTILLO 1.5 TON ')
+2023-10-20 12:24:11,802 - INFO - Mensaje enviado correctamente a ENRIQUE HERNANDEZ MURILLO con número None
+2023-10-20 12:24:11,807 - INFO - (48971.0, 'ENRIQUE HERNANDEZ MURILLO', 'ServerArchivos/Cartas_Porte/Prueba/267754.pdf', None, 'BIOTEKSA')
+2023-10-20 12:24:11,808 - INFO - La informacion a tratar es: (3464.0, 26.0, 267754.0, 'FLETE MONTERREY CARMEN NL CAMION 1.5 TON REDONDO ')
+2023-10-20 12:24:11,809 - INFO - Programa finalizado. 
+

@@ -1,0 +1,195 @@
+2023-10-20 12:40:44,725 - INFO - Iniciando programa...
+2023-10-20 12:40:44,832 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 12:40:44,863 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 12:40:44,864 - INFO - (266293.0, 'carta nueva nadie le entendio', 'Costeo')
+2023-10-20 12:40:46,213 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 12:40:46,237 - INFO - Actualizacion exitosa en la carta porte: 266293.0
+2023-10-20 12:40:46,262 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 12:40:46,262 - INFO - (266388.0, 'sin destino', 'Sistemas')
+2023-10-20 12:40:47,334 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 12:40:47,352 - INFO - Actualizacion exitosa en la carta porte: 266388.0
+2023-10-20 12:40:47,402 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 12:40:47,402 - INFO - (267576.0, 'Folio ineficiente', 'RRHH')
+2023-10-20 12:40:48,729 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 12:40:48,743 - INFO - Actualizacion exitosa en la carta porte: 267576.0
+2023-10-20 12:40:48,767 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 12:40:48,767 - INFO - (269278.0, 'carta porte cancelada', 'Lï¿½gistica')
+2023-10-20 12:40:49,841 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 12:40:49,858 - INFO - Actualizacion exitosa en la carta porte: 269278.0
+2023-10-20 12:40:49,893 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 12:40:49,893 - INFO - (269428.0, 'registro invalido', 'Lï¿½gistica')
+2023-10-20 12:40:51,034 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 12:40:51,045 - INFO - Actualizacion exitosa en la carta porte: 269428.0
+2023-10-20 12:40:51,064 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 12:40:51,064 - INFO - (269725.0, 'diario no generado', 'Lï¿½gistica')
+2023-10-20 12:40:52,157 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 12:40:52,174 - INFO - Actualizacion exitosa en la carta porte: 269725.0
+2023-10-20 12:40:52,189 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 12:40:52,189 - INFO - Programa finalizado. 
+
+2023-10-20 12:42:20,017 - INFO - Iniciando programa...
+2023-10-20 12:42:20,151 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 12:42:20,304 - INFO - El error: carta nueva nadie le entendio con folio: 266293.0 fue enviado con anterioridad para su correcion al area de Costeo con numero: 528714056401
+2023-10-20 12:42:20,337 - INFO - El error: sin destino con folio: 266388.0 fue enviado con anterioridad para su correcion al area de Sistemas con numero: 528714056401
+2023-10-20 12:42:20,354 - INFO - El error: Folio ineficiente con folio: 267576.0 fue enviado con anterioridad para su correcion al area de RRHH con numero: 528714056401
+2023-10-20 12:42:20,393 - INFO - El error: carta porte cancelada con folio: 269278.0 fue enviado con anterioridad para su correcion al area de Lógistica con numero: 528714056401
+2023-10-20 12:42:20,410 - INFO - El error: registro invalido con folio: 269428.0 fue enviado con anterioridad para su correcion al area de Lógistica con numero: 528714056401
+2023-10-20 12:42:20,435 - INFO - El error: diario no generado con folio: 269725.0 fue enviado con anterioridad para su correcion al area de Lógistica con numero: 528714056401
+2023-10-20 12:42:20,440 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 12:42:20,441 - INFO - Programa finalizado. 
+
+2023-10-20 13:21:41,395 - INFO - Iniciando programa...
+2023-10-20 13:21:41,631 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:21:41,659 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:21:41,660 - INFO - (266293.0, 'carta nueva nadie le entendio', 'Costeo')
+2023-10-20 13:21:43,296 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:21:43,311 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Estatus_timbrado_whapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00 (8309) (SQLPrepare)')
+2023-10-20 13:21:43,318 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:21:43,318 - INFO - (266388.0, 'sin destino', 'Sistemas')
+2023-10-20 13:21:44,488 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:21:59,887 - INFO - Iniciando programa...
+2023-10-20 13:22:00,030 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:22:57,185 - INFO - Iniciando programa...
+2023-10-20 13:22:57,294 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:22:57,325 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:22:57,325 - INFO - (266293.0, 'carta nueva nadie le entendio', 'Costeo')
+2023-10-20 13:22:58,604 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:07,561 - INFO - Iniciando programa...
+2023-10-20 13:23:07,687 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:23:09,456 - INFO - Iniciando programa...
+2023-10-20 13:23:09,569 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:23:12,254 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:23:12,829 - INFO - (266293.0, 'carta nueva nadie le entendio', 'Costeo')
+2023-10-20 13:23:15,044 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:26,895 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:23:27,432 - INFO - (266293.0, 'carta nueva nadie le entendio', 'Costeo')
+2023-10-20 13:23:29,365 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:47,964 - INFO - Iniciando programa...
+2023-10-20 13:23:48,108 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:23:48,209 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:23:48,209 - INFO - (266293.0, 'carta nueva nadie le entendio', 'Costeo')
+2023-10-20 13:23:49,630 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:49,683 - INFO - Actualizacion exitosa en la carta porte: 266293.0
+2023-10-20 13:23:49,698 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:23:49,699 - INFO - (266388.0, 'sin destino', 'Sistemas')
+2023-10-20 13:23:51,092 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:51,109 - INFO - Actualizacion exitosa en la carta porte: 266388.0
+2023-10-20 13:23:51,116 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:23:51,116 - INFO - (267576.0, 'Folio ineficiente', 'RRHH')
+2023-10-20 13:23:53,116 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:53,136 - INFO - Actualizacion exitosa en la carta porte: 267576.0
+2023-10-20 13:23:53,148 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:23:53,148 - INFO - (269278.0, 'carta porte cancelada', 'Lógistica')
+2023-10-20 13:23:55,181 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:55,197 - INFO - Actualizacion exitosa en la carta porte: 269278.0
+2023-10-20 13:23:55,206 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:23:55,206 - INFO - (269428.0, 'registro invalido', 'Lógistica')
+2023-10-20 13:23:57,425 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:57,438 - INFO - Actualizacion exitosa en la carta porte: 269428.0
+2023-10-20 13:23:57,456 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:23:57,456 - INFO - (269725.0, 'diario no generado', 'Lógistica')
+2023-10-20 13:23:58,969 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:23:59,006 - INFO - Actualizacion exitosa en la carta porte: 269725.0
+2023-10-20 13:23:59,046 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 13:23:59,046 - INFO - Programa finalizado. 
+
+2023-10-20 13:24:08,345 - INFO - Iniciando programa...
+2023-10-20 13:24:08,487 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:24:08,516 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 13:24:08,517 - INFO - Programa finalizado. 
+
+2023-10-20 13:25:26,391 - INFO - Iniciando programa...
+2023-10-20 13:25:26,525 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:25:26,545 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 13:25:31,935 - INFO - Programa finalizado. 
+
+2023-10-20 13:31:22,654 - INFO - Iniciando programa...
+2023-10-20 13:31:22,856 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:31:22,868 - ERROR - Error al obtener los errores generados en la carta porte: ('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(11:17): The column named "Bandera_Whatsapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\ua750\u5c1a\u026a\x00 \x0e\x00\x00\ua770\u5c1a\u026a\x00!\x0e\x00\x00 (8309) (SQLExecDirectW)')
+2023-10-20 13:31:22,873 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 13:31:22,873 - INFO - Programa finalizado. 
+
+2023-10-20 13:32:04,659 - INFO - Iniciando programa...
+2023-10-20 13:32:04,763 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:32:04,784 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:32:04,786 - INFO - (266293.0, 'Timbrado con exito', 'Costeo')
+2023-10-20 13:32:06,257 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:32:06,257 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00¦\x00«\x00\x00\x00\x00\u017c\u135f\x00\x00\x00\x00|\u14a0\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\u017c\u01a6\x00\u01ab\x00\x00\x00\x00\x01\u0764|\u155f\x00\x00\x00\x00|\u0f6a\x00\x00\x00\x00\u16a0\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\u017c\u17a0\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\u037c\u01a6\x00\u01ab\x00\x00\x00\x00\u01a6\x00\u01ab\x00\x00\x00\x00\x01\u0764|\u025f\x00\x00\x00\x00\u3174\x00\x00\x00\x00\x00|\u017c\u037c\u03a6\x00\u03ab\x00\x00\x00\x00S\u0829\u7a4e\u6648\u726f\u6563\u7a5f\u7069\u3436\u6920\u2073\u7254\u6575\u202c\u7562\u2074\u6c61\u6f6c\u5a77\u7069\u3436\u7720 (8309) (SQLPrepare)')
+2023-10-20 13:32:06,273 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:32:06,273 - INFO - (266388.0, 'Timbrado con exito', 'Sistemas')
+2023-10-20 13:32:07,629 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:32:07,648 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\u0177\x01Y\x01\x01\u0564\u0564\u0564\u02a6\x00\u02ab\x00\x00\x00\x00\x01\u0564S#1\u0473\u0277\u0378Y\u0177\x01Y\x01\x01\u0564S\u0929\u4c7a\u7550\u2074\u6874\u2065\u7962\u6574\u2073\u7266\u6d6f\u6620\u6c69\u6e65\u6d61\u2065\u6e69\u6f74\u7420\u6568\u6120\u6372\u6968\u6576\u7520\u646e\u7265\u7420\u6568\u6e20\u6d61\u0a65††††\u7261\u6e63\u6d61\u2e65\u37fa\u7441\u6574\u706d\u2074\u6f74\u7720\u6972\u6574\u7420\u206f\u495a\u2050\u7261\u6863\u7669\u2065\u6874\u7461\u7720\u7361\u6120\u726c\u6165\u7964\u6320\u6f6c\u6573\u7a64\u433e\u6e61\u7427\u7720\u6972\u6574\u7420\u206f\u495a\u2050\u7261\u6863\u7669\u2065\u6877\u6c69\u2065\u6e61\u6f20\u6570\u206e\u7277\u7469\u6e69\u2067\u6168\u646e\u656c\u6520\u6978\u7473\u7273Ó\x00 (8309) (SQLPrepare)')
+2023-10-20 13:32:07,655 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:32:07,655 - INFO - (267576.0, 'Timbrado con exito', 'RRHH')
+2023-10-20 13:32:08,768 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:32:08,773 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\u0177\x01Y\x01\x01\u0564\u0564\u0564\u02a6\x00\u02ab\x00\x00\x00\x00\x01\u0564S#1\u0473\u0277\u0378Y\u0177\x01Y\x01\x01\u0564S\u0929\u4c7a\u7550\u2074\u6874\u2065\u7962\u6574\u2073\u7266\u6d6f\u6620\u6c69\u6e65\u6d61\u2065\u6e69\u6f74\u7420\u6568\u6120\u6372\u6968\u6576\u7520\u646e\u7265\u7420\u6568\u6e20\u6d61\u0a65††††\u7261\u6e63\u6d61\u2e65\u37fa\u7441\u6574\u706d\u2074\u6f74\u7720\u6972\u6574\u7420\u206f\u495a\u2050\u7261\u6863\u7669\u2065\u6874\u7461\u7720\u7361\u6120\u726c\u6165\u7964\u6320\u6f6c\u6573\u7a64\u433e\u6e61\u7427\u7720\u6972\u6574\u7420\u206f\u495a\u2050\u7261\u6863\u7669\u2065\u6877\u6c69\u2065\u6e61\u6f20\u6570\u206e\u7277\u7469\u6e69\u2067\u6168\u646e\u656c\u6520\u6978\u7473\u7273Ó\x00 (8309) (SQLPrepare)')
+2023-10-20 13:32:08,787 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:32:08,788 - INFO - (269278.0, 'Timbrado con exito', 'Lógistica')
+2023-10-20 13:32:09,989 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:32:10,006 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\ua770\ue09c\u01ec\x00 \x0e\x00\x00\ua790\ue09c\u01ec\x00!\x0e (8309) (SQLPrepare)')
+2023-10-20 13:32:10,012 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:32:10,012 - INFO - (269428.0, 'Timbrado con exito', 'Lógistica')
+2023-10-20 13:32:11,123 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:32:38,187 - INFO - Iniciando programa...
+2023-10-20 13:32:38,313 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:32:46,491 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:32:47,254 - INFO - (266293.0, 'Timbrado con exito', 'Costeo')
+2023-10-20 13:32:49,118 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:32:49,128 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\ue728\u50fb\u7ffa\x00!\x00 (8309) (SQLPrepare)')
+2023-10-20 13:32:52,432 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:32:52,884 - INFO - (266388.0, 'Timbrado con exito', 'Sistemas')
+2023-10-20 13:32:54,607 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:32:54,607 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\ue528\u50fb\u7ffa\x00\x11\x00\x00\x00\ue548\u50fb\u7ffa\x00\x12\x00\x00\x00\ue568\u50fb\u7ffa\x00\x13\x00\x00\x00\ue588\u50fb\u7ffa\x00\x14\x00\x00\x00\ue5a8\u50fb\u7ffa\x00\x15\x00\x00\x00\ue5c8\u50fb\u7ffa\x00\x16\x00\x00\x00\ue5e8\u50fb\u7ffa\x00\x17\x00\x00\x00\ue608\u50fb\u7ffa\x00\x18\x00\x00\x00\ue628\u50fb\u7ffa\x00\x19\x00\x00\x00\ue648\u50fb\u7ffa\x00\x1a\x00\x00\x00\ue668\u50fb\u7ffa\x00\x1b\x00\x00\x00\ue688\u50fb\u7ffa\x00\x1c\x00\x00\x00\ue6a8\u50fb\u7ffa\x00\x1d\x00\x00\x00\ue6c8\u50fb\u7ffa\x00\x1e\x00\x00\x00\ue6e8\u50fb\u7ffa\x00\x1f\x00\x00\x00\ue708\u50fb\u7ffa\x00 \x00\x00\x00\ue728\u50fb\u7ffa\x00!\x00 (8309) (SQLPrepare)')
+2023-10-20 13:32:56,130 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:32:56,385 - INFO - (267576.0, 'Timbrado con exito', 'RRHH')
+2023-10-20 13:32:57,757 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:32:57,763 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00 (8309) (SQLPrepare)')
+2023-10-20 13:33:02,616 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:33:03,473 - INFO - (269278.0, 'Timbrado con exito', 'Lógistica')
+2023-10-20 13:33:05,402 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:33:05,411 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00 (8309) (SQLPrepare)')
+2023-10-20 13:33:08,724 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:33:09,217 - INFO - (269428.0, 'Timbrado con exito', 'Lógistica')
+2023-10-20 13:33:10,948 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:33:10,948 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00 (8309) (SQLPrepare)')
+2023-10-20 13:33:12,883 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:33:14,297 - INFO - (269725.0, 'Timbrado con exito', 'Lógistica')
+2023-10-20 13:33:16,253 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:33:16,269 - ERROR - Ocurrio un error en el metodo update_status('HY000', '[HY000] [FileMaker][FileMaker] FQL0007/(3:21): The column named "Bandera_whatsapp" does not exist in any table in the column reference\'s scope.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00 (8309) (SQLPrepare)')
+2023-10-20 13:33:19,976 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 13:33:21,231 - INFO - Programa finalizado. 
+
+2023-10-20 13:34:23,750 - INFO - Iniciando programa...
+2023-10-20 13:34:23,871 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:34:23,896 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:34:23,896 - INFO - (266293.0, 'Timbrado con exito', 'Costeo')
+2023-10-20 13:34:25,075 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:34:25,096 - INFO - Actualizacion exitosa en la carta porte: 266293.0
+2023-10-20 13:34:25,109 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:34:25,110 - INFO - (266388.0, 'Timbrado con exito', 'Sistemas')
+2023-10-20 13:34:26,289 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:34:26,316 - INFO - Actualizacion exitosa en la carta porte: 266388.0
+2023-10-20 13:34:26,327 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:34:26,327 - INFO - (267576.0, 'Timbrado con exito', 'RRHH')
+2023-10-20 13:34:27,480 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:34:27,510 - INFO - Actualizacion exitosa en la carta porte: 267576.0
+2023-10-20 13:34:27,516 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:34:27,516 - INFO - (269278.0, 'Timbrado con exito', 'Lógistica')
+2023-10-20 13:34:28,759 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:34:28,776 - INFO - Actualizacion exitosa en la carta porte: 269278.0
+2023-10-20 13:34:28,795 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:34:28,797 - INFO - (269428.0, 'Timbrado con exito', 'Lógistica')
+2023-10-20 13:34:29,984 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:34:30,003 - INFO - Actualizacion exitosa en la carta porte: 269428.0
+2023-10-20 13:34:30,014 - INFO - Hay errores pendientes en la base de datos:
+2023-10-20 13:34:30,015 - INFO - (269725.0, 'Timbrado con exito', 'Lógistica')
+2023-10-20 13:34:31,205 - INFO - Mensaje enviado correctamente al numero 528711723602
+2023-10-20 13:34:31,227 - INFO - Actualizacion exitosa en la carta porte: 269725.0
+2023-10-20 13:34:31,236 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 13:34:31,236 - INFO - Programa finalizado. 
+
+2023-10-20 13:34:49,043 - INFO - Iniciando programa...
+2023-10-20 13:34:49,157 - INFO - Conexion a la base de datos exitosa.
+2023-10-20 13:34:49,178 - INFO - Conexion a la base de datos cerrada de manera segura.
+2023-10-20 13:34:49,178 - INFO - Programa finalizado. 
+

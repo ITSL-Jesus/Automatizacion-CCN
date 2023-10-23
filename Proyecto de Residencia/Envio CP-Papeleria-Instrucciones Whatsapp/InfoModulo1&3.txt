@@ -1,0 +1,13 @@
+MODULO 1
+
+Este módulo, parte de un sistema de alertas que automatiza la asignación de las cartas porte generadas previamente
+ a las diferentes áreas de la empresa. Para ello, se conecta al FILEMAKER para verificar que los documentos contienen pendientes.
+  Luego, recolecta los datos necesarios y envía un mensaje de alerta a quien corresponda mediante la API de Whatsapp Business.
+
+MODULO 3
+
+Este modulo se encarga de buscar los catalogos de instrucciones y papaleria requeridos para la entrega de las cargas, este proceso 
+ se lleva acabo mediante la union del MODULO 1 el cual utilizamos en conjunto para enviar la Carta porte, las intrucciones y la papeleria
+  en un solo mensaje. Utilizamos el codigo unico de cartas porte pendientes de enviar(Modulo 1) para buscar mediante inner joins 
+   las diferentes listas de datos que nesecitamos extrañendolas desde FILEMAKER para posteriormente agregarlas al JSON y enviarlas por medio
+    de la API de Whatsapp Business.
