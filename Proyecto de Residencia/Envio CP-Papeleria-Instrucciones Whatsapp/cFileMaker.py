@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(filename='Logs/BitacoraMod1-3.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Configura la cadena de conexión a la base de datos (debes configurar la variable de entorno DB_CONNECTION_STRING)
-DB_CONNECTION_STRING = "DSN=Servidor;UID=Servidor;PWD=15mJFserigrafia"
+DB_CONNECTION_STRING = "********************************************************"
 
 # Función para conectar a la base de datos
 def connect_to_database():
